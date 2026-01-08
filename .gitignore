@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+nova_act_logs/
+tmp/
+*.log
