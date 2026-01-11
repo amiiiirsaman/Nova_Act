@@ -1,6 +1,6 @@
 from nova_act import NovaAct
 import warnings
-
+# Thanks to https://stackoverflow.com/a/55063445/706389
 warnings.filterwarnings('ignore')
 
 def test_nova_act_simple():
