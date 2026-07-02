@@ -1,18 +1,7 @@
 # Nova_Act
 
 ## Overview
-Exploration repository for action-oriented AI workflows using Nova-capable agent patterns.
+Exploration repository for action-oriented AI workflows with governance controls.
 
-## Problem
-Business teams need AI agents that can take bounded actions with clear governance and traceability.
-
-## Architecture
-- Action planner
-- Tool/action executor
-- Output validation and controls
-
-## Stack
-Python, agent orchestration patterns, API integrations.
-
-## Status
-Active exploration repository for action-centric agent design.
+## Scope
+This repository is maintained as part of the public AI engineering portfolio.
